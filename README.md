@@ -43,5 +43,5 @@ JavaScript functionality is implemented in the script.js file for dynamic and in
 [Ishara Live View on Github Pages](https://valerielisa.github.io/ishara/) 
 
 ### Contact Me
-<a href="tel:0740343419"><img src="icons\gmail.png" width= "30px"></a>
-<a href="mailto:valerielisaotieno@gmail.com"><img src="icons\telephone.png" width= "30px"></a>
+<a href="tel:0740343419"><img src="icons\telephone.png" width= "30px"></a>
+<a href="mailto:valerielisaotieno@gmail.com"><img src="icons\gmail.png" width= "30px"></a>
