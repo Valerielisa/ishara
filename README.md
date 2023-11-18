@@ -35,9 +35,9 @@ JavaScript functionality is implemented in the script.js file for dynamic and in
 
 ### 5. Images of Ishara <br>
 <img src="readme-images\Ishara p1.png" width="430px">
-<img src="readme-images\Isharap2.png" width="430px">
-<img src="readme-images\Isharap3.png" width="430px">
-<img src="readme-images\Isharap4.png" width="430px"> 
+<img src="readme-images\isharap2.png" width="430px">
+<img src="readme-images\isharap3.png" width="430px">
+<img src="readme-images\isharap4.png" width="430px"> 
 
 ### 6. Live View of Ishara <br>
 [Ishara Live View on Github Pages](https://valerielisa.github.io/ishara/) 
